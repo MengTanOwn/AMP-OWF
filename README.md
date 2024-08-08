@@ -7,8 +7,8 @@ AMP: A robust model for detecting out-of-distribution violence, set to be publis
     <img src="resources/AMP-OOD-result.png"/>
     <br>
 </p>
-## OWF Info  
 
+## OWF Info
 The OWF Dataset, collected from TikTok, includes 300 fight videos and 300 non-fight videos, each lasting 2 seconds. OWF differs from existing datasets.
 <p align="center">
     <br>
@@ -22,6 +22,7 @@ The OWF Dataset, collected from TikTok, includes 300 fight videos and 300 non-fi
     <img src="resources/owf-sample.png"/>
     <br>
 </p>
+
 ## OWF Download
 https://drive.google.com/file/d/1rrcNHcst9GzmrtdDtJpMGi_rcspYkljf/view?usp=sharing
 
