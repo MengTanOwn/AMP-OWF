@@ -7,16 +7,19 @@ AMP: A robust model for detecting out-of-distribution violence, set to be publis
     <img src="resources/AMP-OOD-result.png"/>
     <br>
 </p>
+AMP employs multimodal prior knowledge and specialized module design for effective out-of-distribution violence detection.
 
 ## OWF Info
-The OWF Dataset, collected from TikTok, includes 300 fight videos and 300 non-fight videos, each lasting 2 seconds. OWF differs from existing datasets.
+The OWF Dataset, collected from TikTok, includes 300 fight videos and 300 non-fight videos, each lasting 2 seconds. 
 <p align="center">
     <br>
     <img src="resources/ood.png"/>
     <br>
 </p>
+OWF differs from existing datasets.
 
 ## OWF Sample
+Contains a variety of complex scenarios, examples are as follows:
 <p align="center">
     <br>
     <img src="resources/owf-sample.png"/>
@@ -27,5 +30,5 @@ The OWF Dataset, collected from TikTok, includes 300 fight videos and 300 non-fi
 https://drive.google.com/file/d/1rrcNHcst9GzmrtdDtJpMGi_rcspYkljf/view?usp=sharing
 
 ## license
-本框架使用[Apache License (Version 2.0)](https://github.com/MengTanOwn/AMP-OWF/LICENSE)进行许可。模型和数据集请查看原资源页面并遵守对应License。
+This framework is licensed under the Apache License (Version 2.0). Please visit the original resource page for models and datasets and adhere to the respective licenses.
 
